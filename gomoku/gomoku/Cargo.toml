@@ -8,6 +8,7 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.75"
 eframe = "0.22.0"
+rodio = "0.17"
 
 [profile.release]
 strip = true
